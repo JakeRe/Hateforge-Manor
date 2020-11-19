@@ -3,13 +3,11 @@
 
 # But not these files...
 !.gitignore
-!script.pl
-!template.latex
+!.map
 # etc...
 
 # ...even if they are in subdirectories
 !*/
 
 # if the files to be tracked are in subdirectories
-!*/a/b/file1.txt
-!*/a/b/c/*
+!QuakeDev/Id1/maps/TestLevel.map
