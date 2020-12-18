@@ -14,3 +14,5 @@
 # if the files to be tracked are in subdirectories
 !QuakeDev/Id1/maps/TestLevel.map
 !QuakeDev/Id1/maps/HateforgeManor_Graybox.map
+!QuakeDev/Id1/maps/HateforgeManor.map
+
